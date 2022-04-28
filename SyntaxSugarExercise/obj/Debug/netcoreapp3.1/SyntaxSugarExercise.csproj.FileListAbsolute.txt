@@ -1,0 +1,13 @@
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.deps.json
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.json
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.dev.json
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csproj.AssemblyReference.cache
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfo.cs
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/takiragray/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.genruntimeconfig.cache
